@@ -61,9 +61,11 @@ print("the total tax is", A)
 
 #problem6
 def prob6a():
-    A = list(range(1,7))
+    A = list(range(1,8))
     B = list([5, 5, 5, 5, 5, 5, 5])
-    x = A@B
+    x = list(range(7))
+    for i in range(7):
+        x[i] = A[i] * B[i]
     y = A + B
     z = 5 * A
     return x, y, z
@@ -80,3 +82,4 @@ def prob6b():
 
 n = prob6b()
 print(n)
+                  

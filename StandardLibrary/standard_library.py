@@ -1,8 +1,8 @@
 # standard_library.py
 """Python Essentials: The Standard Library.
-<Name>
-<Class>
-<Date>
+<Name> Zhongyu Wang
+<Class> Mth 420
+<Date> 4/15/2022
 """
 
 
@@ -11,6 +11,13 @@ def prob1(L):
     """Return the minimum, maximum, and average of the entries of L
     (in that order).
     """
+    x = min(L)
+    y = max(L)
+    z = sum(L)
+    a = len(L)
+    b = z/a
+return x, y, b
+
     raise NotImplementedError("Problem 1 Incomplete")
 
 
