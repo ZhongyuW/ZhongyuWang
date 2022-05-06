@@ -1,0 +1,6 @@
+05/06/22 18:09
+
+SyntaxError while loading 'python_numpy2.py': unexpected EOF while parsing (python_numpy2.py, line 121)
+
+-------------------------------------------------------------------------------
+
