@@ -1,0 +1,61 @@
+05/06/22 20:07
+
+Problem 1 (10 points):
+prob1() plot does not match specifications
+Score += 0
+
+Problem 2 (10 points):
+prob2() plot does not match specifications
+Score += 0
+
+Problem 3 (10 points):
+prob3() plot does not match specifications
+Score += 4
+
+Problem 4 (5 points):
+NotImplementedError: 4 subplots required (not 0)
+
+Problem 6 (10 points):
+prob6() plot does not match specifications
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 9/50 = 18.0%
+
+-------------------------------------------------------------------------------
+
+05/07/22 06:48
+
+Problem 1 (10 points):
+prob1() plot does not match specifications
+Score += 0
+
+Problem 2 (10 points):
+prob2() plot does not match specifications
+Score += 0
+
+Problem 3 (10 points):
+prob3() plot does not match specifications
+Score += 0
+
+Problem 4 (5 points):
+prob4() plot does not match specifications
+Score += 0
+
+Problem 6 (10 points):
+prob6() plot does not match specifications
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 5/50 = 10.0%
+
+
+Comments:
+	use plt.show not return k
+
+-------------------------------------------------------------------------------
+
